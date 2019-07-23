@@ -1,6 +1,0 @@
-c:\users\amjad\documents\visual studio 2017\Projects\TicTacToeProjectWithOop\TicTacToeProjectWithOop\bin\TypeScriptHTMLApp1.dll.config
-c:\users\amjad\documents\visual studio 2017\Projects\TicTacToeProjectWithOop\TicTacToeProjectWithOop\bin\TypeScriptHTMLApp1.dll
-c:\users\amjad\documents\visual studio 2017\Projects\TicTacToeProjectWithOop\TicTacToeProjectWithOop\bin\TypeScriptHTMLApp1.pdb
-c:\users\amjad\documents\visual studio 2017\Projects\TicTacToeProjectWithOop\TicTacToeProjectWithOop\obj\Debug\TicTacToeProjectWithOop.csprojResolveAssemblyReference.cache
-c:\users\amjad\documents\visual studio 2017\Projects\TicTacToeProjectWithOop\TicTacToeProjectWithOop\obj\Debug\TypeScriptHTMLApp1.dll
-c:\users\amjad\documents\visual studio 2017\Projects\TicTacToeProjectWithOop\TicTacToeProjectWithOop\obj\Debug\TypeScriptHTMLApp1.pdb
